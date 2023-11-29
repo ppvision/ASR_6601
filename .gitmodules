@@ -1,0 +1,6 @@
+[submodule "cmake"]
+	path = cmake
+	url = https://github.com/ppvision/MCU_Builder
+[submodule "asr_6601_sdk"]
+	path = asr_6601_sdk
+	url = https://github.com/asrlora/asr_lora_6601.git
